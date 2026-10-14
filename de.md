@@ -108,3 +108,58 @@ Wir werden nach Eingang Ihrer Anfrage so schnell wie möglich antworten.
 ---
 
 Diese Datenschutzerklärung tritt mit dem Datum der Veröffentlichung in Kraft. Vielen Dank für Ihr Vertrauen und Ihre Unterstützung.
+
+---
+
+# Nutzungsbedingungen und Verhaltensregeln
+
+Stand: Oktober 2026
+
+Diese Nutzungsbedingungen regeln Ihre Nutzung dieser App, einschließlich der Funktionen für nutzergenerierte Inhalte. Durch die Nutzung der App und der weltweiten Bestenliste stimmen Sie diesen Bedingungen zu.
+
+## 1. Nutzergenerierte Inhalte (Spitznamen)
+
+Der einzige nutzergenerierte Inhalt in dieser App ist der optionale öffentliche Spitzname, der in der weltweiten Bestenliste angezeigt wird.
+
+Sie verpflichten sich, keinen Spitznamen zu verwenden, der Folgendes enthält:
+
+- Belästigung, Bedrohung, Beleidigung oder persönliche Angriffe
+- Hassrede, Rassismus, Sexismus oder jegliche Form von Diskriminierung
+- Sexuelle, obszöne, pornografische oder gewalttätige Inhalte
+- Schimpfwörter oder vulgäre Ausdrücke
+- Spam, Werbung, kommerzielle Werbung, URLs, E-Mail-Adressen oder Kontaktdaten
+- Identitätsnachahmung einer anderen Person oder Organisation
+- Jegliche illegalen oder die Rechte Dritter verletzenden Inhalte
+
+Der Spitzname muss 1–12 Zeichen lang sein und darf nur Buchstaben, Zahlen, Unterstriche und Leerzeichen enthalten.
+
+## 2. Automatische Inhaltsfilterung
+
+Alle Spitznamen werden sowohl in der App als auch auf dem Server anhand von Zeichenregeln und einer mehrsprachigen Liste anstößiger Wörter geprüft. Nicht konforme Spitznamen werden abgelehnt und niemals in der Bestenliste angezeigt.
+
+## 3. Melden anstößiger Inhalte
+
+Wenn Sie einen anstößigen Spitznamen in der Bestenliste sehen:
+
+1. Halten Sie die Zeile des Spielers gedrückt (Ihre eigene Zeile können Sie nicht melden).
+2. Tippen Sie auf „Spieler melden“ und wählen Sie einen Grund (Beleidigung oder Belästigung, Spam oder Werbung, sexuelle Inhalte, Hass oder Diskriminierung, sonstiges).
+
+Meldungen sind auf 20 pro Gerät pro Tag begrenzt und doppelte Meldungen werden zusammengeführt. Wir prüfen jede Meldung und können anstößige Inhalte und Spieler entfernen. Sie können uns auch unter yufei.cjn@outlook.com kontaktieren.
+
+## 4. Spieler blockieren
+
+Halten Sie eine Zeile der Bestenliste gedrückt und tippen Sie auf „Spieler blockieren“, um den Spieler auf diesem Gerät auszublenden. Die Blockierung gilt nur auf diesem Gerät und kann jederzeit aufgehoben werden.
+
+## 5. Durchsetzung
+
+Wir können nach eigenem Ermessen und ohne vorherige Ankündigung Spitznamen ablehnen, Bestenlisten-Einträge löschen oder Spieler, die gegen diese Bedingungen verstoßen, vorübergehend oder dauerhaft sperren. Gesperrte Spieler können keine Punkte einreichen, und ihre vorhandenen Einträge werden aus allen Bestenlisten ausgeschlossen.
+
+## 6. Hinweis zu Drittanbietern (Apple)
+
+Diese App enthält nutzergenerierte Inhalte. Apple übernimmt keine Verpflichtung oder Haftung in Bezug auf diese nutzergenerierten Inhalte. Bei Meinungsverschiedenheiten oder Bedenken bezüglich nutzergenerierter Inhalte können Sie Apple unter https://www.apple.com/legal/internet-services/itunes/ kontaktieren.
+
+## 7. Kontakt
+
+Bei Fragen zu diesen Bedingungen oder Moderationsentscheidungen kontaktieren Sie uns unter yufei.cjn@outlook.com.
+
+Diese Bedingungen treten mit dem Datum der Veröffentlichung in Kraft.

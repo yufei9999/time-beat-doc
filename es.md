@@ -108,3 +108,58 @@ Responderemos lo antes posible después de recibir su solicitud.
 ---
 
 Esta Política de privacidad entra en vigor desde la fecha de publicación. Gracias por su confianza y apoyo.
+
+---
+
+# Términos de servicio y normas de conducta
+
+Última actualización: octubre de 2026
+
+Estos Términos rigen el uso de esta Aplicación, incluidas sus funciones de contenido generado por usuarios. Al usar la Aplicación y su clasificación mundial, aceptas estos Términos.
+
+## 1. Contenido generado por usuarios (apodos)
+
+El único contenido generado por usuarios en esta Aplicación es el apodo público opcional que se muestra en la clasificación mundial.
+
+Te comprometes a no usar un apodo que contenga:
+
+- Acoso, amenazas, insultos o ataques personales
+- Discurso de odio, racismo, sexismo o cualquier forma de discriminación
+- Contenido sexual, obsceno, pornográfico o violento
+- Palabrotas o términos vulgares
+- Spam, publicidad, promociones comerciales, URL, correos electrónicos o datos de contacto
+- Suplantación de otra persona u organización
+- Cualquier contenido ilegal o que infrinja los derechos de terceros
+
+El apodo debe tener entre 1 y 12 caracteres y solo puede contener letras, números, guiones bajos y espacios.
+
+## 2. Filtrado automático de contenido
+
+Todos los apodos se verifican tanto en la Aplicación como en el servidor según reglas de caracteres y una lista multilingüe de palabras prohibidas. Los apodos que incumplen las reglas se rechazan y nunca se muestran en la clasificación.
+
+## 3. Denuncia de contenido ofensivo
+
+Si ves un apodo ofensivo en la clasificación:
+
+1. Mantén pulsada la fila del jugador (no puedes denunciar tu propia fila).
+2. Toca «Reportar jugador» y elige el motivo (insultos o acoso, spam o publicidad, contenido sexual, odio o discriminación, otro).
+
+Las denuncias están limitadas a 20 por dispositivo al día y las denuncias duplicadas se combinan. Revisamos cada denuncia y podemos eliminar contenidos y jugadores infractores. También puedes escribirnos a yufei.cjn@outlook.com.
+
+## 4. Bloqueo de jugadores
+
+Mantén pulsada una fila de la clasificación y toca «Bloquear jugador» para ocultar a ese jugador en este dispositivo. El bloqueo solo se aplica en este dispositivo y puedes deshacerlo en cualquier momento.
+
+## 5. Cumplimiento
+
+Podemos, a nuestra discreción y sin previo aviso, rechazar apodos, eliminar registros de la clasificación o expulsar temporal o permanentemente a los jugadores que infrinjan estos Términos. Los jugadores expulsados no pueden enviar puntuaciones y sus registros existentes quedan excluidos de todas las clasificaciones.
+
+## 6. Aviso de terceros (Apple)
+
+Esta Aplicación incluye contenido generado por usuarios. Apple no tiene ninguna obligación ni responsabilidad respecto a dicho contenido. En caso de desacuerdo o inquietud sobre el contenido generado por usuarios, puedes ponerte en contacto con Apple en https://www.apple.com/legal/internet-services/itunes/.
+
+## 7. Contacto
+
+Para cualquier pregunta sobre estos Términos o las decisiones de moderación, escríbenos a yufei.cjn@outlook.com.
+
+Estos Términos entran en vigor desde la fecha de su publicación.

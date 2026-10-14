@@ -108,3 +108,58 @@ We will respond as soon as possible after receiving your request.
 ---
 
 This Privacy Policy takes effect from the date of publication. Thank you for your trust and support.
+
+---
+
+# Terms of Service and User Conduct
+
+Last updated: October 2026
+
+These Terms of Service govern your use of this App, including its user-generated content features. By using the App and its global leaderboard, you agree to these Terms.
+
+## 1. User-Generated Content (Nicknames)
+
+The only user-generated content in this App is the optional public nickname displayed on the global leaderboard.
+
+You agree not to use a nickname that contains any of the following:
+
+- Harassment, threats, insults, or personal attacks
+- Hate speech, racism, sexism, or discrimination of any kind
+- Sexual, obscene, pornographic, or violent content
+- Profanity or vulgar words
+- Spam, advertising, commercial promotion, URLs, email addresses, or contact information
+- Impersonation of another person or organization
+- Any content that is illegal or infringes the rights of others
+
+A nickname must be 1-12 characters long and may contain letters, numbers, underscores, and spaces only.
+
+## 2. Automatic Content Filtering
+
+Every nickname is checked by both the App and the server against character rules and a multilingual profanity list. Nicknames that violate the rules are rejected and are never displayed on the leaderboard.
+
+## 3. Reporting Offensive Content
+
+If you see an offensive nickname on the leaderboard:
+
+1. Long-press the player's row (you cannot report your own row).
+2. Tap "Report Player" and choose a reason (abuse or harassment, spam or advertising, sexual content, hate speech or discrimination, or other).
+
+Reports are limited to 20 per device per day, and duplicate reports are merged. We review every report and may remove offending content and players. You may also contact us at yufei.cjn@outlook.com.
+
+## 4. Blocking Players
+
+Long-press a leaderboard row and tap "Block Player" to hide that player from the leaderboard on this device. The block applies only to this device and can be undone at any time.
+
+## 5. Enforcement
+
+We may, at our discretion and without prior notice, reject nicknames, remove leaderboard records, or temporarily or permanently ban players who violate these Terms. Banned players cannot submit scores, and their existing records are excluded from all leaderboards.
+
+## 6. Third-Party Notice (Apple)
+
+This App includes user-generated content. Apple has no obligation or liability with respect to such user-generated content. In the event of any disagreement or concern regarding user-generated content, users may contact Apple at https://www.apple.com/legal/internet-services/itunes/.
+
+## 7. Contact
+
+For any questions about these Terms or moderation decisions, contact us at yufei.cjn@outlook.com.
+
+These Terms take effect from the date of publication.
